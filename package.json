@@ -1,5 +1,5 @@
 {
-	"name": "red-bank-js-intensive",
+	"name": "bank-js",
 	"version": "1.0.0",
 	"description": "Project for htmllessons.ru intensive",
 	"main": "webpack.config.js",
@@ -7,7 +7,6 @@
 		"dev": "webpack serve --mode development --open",
 		"build": "webpack --mode production"
 	},
-	"author": "Max Shushval [RED Group]",
 	"license": "ISC",
 	"devDependencies": {
 		"@babel/core": "^7.21.4",

@@ -1,4 +1,4 @@
-import { redQuery } from '@/core/red-query/red-query.lib'
+import { redQuery } from '@/core/my-query/my-query.lib'
 
 export class TransactionService {
 	#BASE_URL = '/transactions'
